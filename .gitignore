@@ -12,8 +12,8 @@ venv/
 # --- Data Management ---
 # We ignore all CSVs to prevent massive price history files from bloating the repo
 *.csv
-# But we EXEMPT 'the source-of-truth file' 
 !asx200.csv
+!manual_downloads/*.csv
 
 # --- Local Settings & Secrets ---
 .env
