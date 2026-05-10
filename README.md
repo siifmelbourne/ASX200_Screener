@@ -1,5 +1,5 @@
 # ASX200_Screener
-**Au:** A Tran 
+**Author:** A Tran 
 **Project:** ASX200 Stock Screener for SIIF
 
 ## Project Overview
